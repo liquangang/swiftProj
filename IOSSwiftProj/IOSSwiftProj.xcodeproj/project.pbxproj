@@ -16,6 +16,7 @@
 		16131E392079EC1E0052587B /* IOSSwiftProjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16131E382079EC1E0052587B /* IOSSwiftProjUITests.swift */; };
 		16131E4C2079ED610052587B /* CodeTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16131E4B2079ED610052587B /* CodeTestViewController.swift */; };
 		16131E62207A2CDA0052587B /* CodeTestObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16131E61207A2CDA0052587B /* CodeTestObject.swift */; };
+		16131E64207B78440052587B /* UITestVcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16131E63207B78440052587B /* UITestVcViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		16131E3A2079EC1E0052587B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16131E4B2079ED610052587B /* CodeTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTestViewController.swift; sourceTree = "<group>"; };
 		16131E61207A2CDA0052587B /* CodeTestObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTestObject.swift; sourceTree = "<group>"; };
+		16131E63207B78440052587B /* UITestVcViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestVcViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				16131E4B2079ED610052587B /* CodeTestViewController.swift */,
+				16131E63207B78440052587B /* UITestVcViewController.swift */,
 			);
 			path = VC;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 				16131E62207A2CDA0052587B /* CodeTestObject.swift in Sources */,
 				16131E1B2079EC1D0052587B /* ViewController.swift in Sources */,
 				16131E192079EC1D0052587B /* AppDelegate.swift in Sources */,
+				16131E64207B78440052587B /* UITestVcViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
